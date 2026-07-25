@@ -3,7 +3,9 @@ A command-line Python tool that fetches the live Bitcoin price using the WazirX 
 
 # Project Structure
 bitcoin_tracker.py — Main script: fetches live price, converts currency, plots graph
+
 requirements.txt — Python dependencies
+
 README.md — This file
 
 
