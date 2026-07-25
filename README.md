@@ -50,6 +50,8 @@ Enter option number: 2
 0.5 BTC = 27,97,505.48 INR
 
 Generating BTC Price Graph…
+<img width="1232" height="701" alt="Screenshot 2026-07-25 164250" src="https://github.com/user-attachments/assets/042c8228-7c5c-4d53-8db7-74286ccf606e" />
+
 
 A matplotlib window will open showing the last 50 BTC/INR trades as a line graph.
 
