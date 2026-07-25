@@ -59,7 +59,9 @@ A matplotlib window will open showing the last 50 BTC/INR trades as a line graph
 This project uses the WazirX API, specifically:
 
 GET /api/v2/tickers/btcusdt — current BTC price in USD
+
 GET /api/v2/trades?market=btcinr — recent BTC/INR trade history for the graph
+
 USD → INR conversion uses a fixed rate (83.20) set in code, and EUR/GBP/JPY use fixed multipliers as well, rather than live rates.
 
 # Note:
